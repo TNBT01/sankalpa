@@ -1,0 +1,7 @@
+{
+  "name": "Triple Power Alliance - Student Election Campaign",
+  "description": "Official election manifesto portal for Triple Power Alliance (One Voice, Sankalpa, People Tiger Power). Namma College. Namma Voice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
